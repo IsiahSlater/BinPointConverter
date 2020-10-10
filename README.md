@@ -2,6 +2,6 @@
  This program converts decimal points to binary
 
 ### Things it cannot do:
-* do 2's compliment
-* tell you if the decimal is infinite in binary
+* 2's compliment
+* tell you if the result is infinite (it rounds)
 * look pretty (yet :sparkles: )
